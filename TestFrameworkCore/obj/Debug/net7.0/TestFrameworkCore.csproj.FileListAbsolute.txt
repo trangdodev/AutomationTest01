@@ -1,0 +1,12 @@
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\bin\Debug\net7.0\TestFrameworkCore.deps.json
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\bin\Debug\net7.0\TestFrameworkCore.dll
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\bin\Debug\net7.0\TestFrameworkCore.pdb
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.AssemblyInfo.cs
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.dll
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\refint\TestFrameworkCore.dll
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\TestFrameworkCore.pdb
+C:\Users\iammt\Downloads\Selenium_Day2\TestFrameworkCore\obj\Debug\net7.0\ref\TestFrameworkCore.dll
